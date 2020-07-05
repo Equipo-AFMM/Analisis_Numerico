@@ -3,7 +3,7 @@ PROGRAMAS
 
 Integrantes:
 
-Angeles Lariz Andrés
-Flores Castillo Raúl Joshua
-Martinez Martinez Alejandra
-Muñoz Galicia Luis Antonio
+1.- Angeles Lariz Andrés.
+2.- Flores Castillo Raúl Joshua.
+3.- Martinez Martinez Alejandra.
+4.- Muñoz Galicia Luis Antonio.
