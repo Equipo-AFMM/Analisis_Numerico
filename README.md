@@ -1,5 +1,4 @@
 # Analisis_Numerico
-PROGRAMAS
 
 Grupo: 4EM24
 Integrantes:
